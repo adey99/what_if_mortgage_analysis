@@ -24,3 +24,7 @@ https://github.com/pair-code/what-if-tool
 # Deploying models to AI Platform
 
 https://cloud.google.com/ai-platform/prediction/docs/deploying-models#gcloud
+
+# Video Guide for the Challenge
+
+https://youtu.be/h4NYU7WHdds
